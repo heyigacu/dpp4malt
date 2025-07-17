@@ -4,8 +4,10 @@
 please see screen folder
 
 ## MD analysis code
+please see MD_analysis folder and https://github.com/heyigacu/pymd
 
 ## Docking result and analysis code
+please see dock_analysis folder
 
 ## Network Pharmacology analysis code
 please see NetworkPharmacology folder 
