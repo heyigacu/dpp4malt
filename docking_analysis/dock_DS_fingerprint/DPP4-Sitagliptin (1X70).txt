@@ -1,0 +1,18 @@
+B:ARG125:NH2 - B:715801:F10	Yes	0 255 0	Ligand Non-bond Monitor	3.22453	Hydrogen Bond;Halogen	Conventional Hydrogen Bond;Halogen (Fluorine)	B:ARG125:NH2	H-Donor;Halogen Acceptor	B:715801:F10	H-Acceptor;Halogen	47.678	147.897				
+B:SER209:OG - B:715801:F44	Yes	0 255 0	Ligand Non-bond Monitor	2.88768	Hydrogen Bond;Halogen	Conventional Hydrogen Bond;Halogen (Fluorine)	B:SER209:OG	H-Donor;Halogen Acceptor	B:715801:F44	H-Acceptor;Halogen	102.355	139.208				
+B:ARG358:NE - B:715801:F43	Yes	0 255 0	Ligand Non-bond Monitor	2.83939	Hydrogen Bond;Halogen	Conventional Hydrogen Bond;Halogen (Fluorine)	B:ARG358:NE	H-Donor;Halogen Acceptor	B:715801:F43	H-Acceptor;Halogen	14.718	107.997				
+B:TYR662:OH - B:715801:N20	Yes	0 255 0	Ligand Non-bond Monitor	2.97184	Hydrogen Bond	Conventional Hydrogen Bond	B:TYR662:OH	H-Donor	B:715801:N20	H-Acceptor	93.672	22.853				
+B:ASN710:ND2 - B:715801:F10	Yes	0 255 0	Ligand Non-bond Monitor	3.11858	Hydrogen Bond;Halogen	Conventional Hydrogen Bond;Halogen (Fluorine)	B:ASN710:ND2	H-Donor;Halogen Acceptor	B:715801:F10	H-Acceptor;Halogen	52.622	130.074				
+B:715801:N20 - B:GLU205:OE2	Yes	0 255 0	Ligand Non-bond Monitor	2.76609	Hydrogen Bond	Conventional Hydrogen Bond	B:715801:N20	H-Donor	B:GLU205:OE2	H-Acceptor	9.007	122.576				
+B:715801:N20 - B:GLU206:OE2	Yes	0 255 0	Ligand Non-bond Monitor	2.64483	Hydrogen Bond	Conventional Hydrogen Bond	B:715801:N20	H-Donor	B:GLU206:OE2	H-Acceptor	81.553	100.105				
+B:715801:C25 - B:GLU205:O	Yes	220 255 220	Ligand Non-bond Monitor	3.38221	Hydrogen Bond	Carbon Hydrogen Bond	B:715801:C25	H-Donor	B:GLU205:O	H-Acceptor	48.135	159.997				
+B:GLU205:OE2 - B:715801:F10	Yes	0 255 255	Ligand Non-bond Monitor	3.48077	Halogen	Halogen (Fluorine)	B:GLU205:OE2	Halogen Acceptor	B:715801:F10	Halogen						
+B:GLU206:O - B:715801:F45	Yes	0 255 255	Ligand Non-bond Monitor	3.69494	Halogen	Halogen (Fluorine)	B:GLU206:O	Halogen Acceptor	B:715801:F45	Halogen						
+B:VAL207:O - B:715801:F44	Yes	0 255 255	Ligand Non-bond Monitor	3.50333	Halogen	Halogen (Fluorine)	B:VAL207:O	Halogen Acceptor	B:715801:F44	Halogen						
+B:VAL207:O - B:715801:F45	Yes	0 255 255	Ligand Non-bond Monitor	3.69195	Halogen	Halogen (Fluorine)	B:VAL207:O	Halogen Acceptor	B:715801:F45	Halogen						
+B:TYR662:OH - B:715801	Yes	220 255 220	Ligand Non-bond Monitor	3.27693	Hydrogen Bond	Pi-Donor Hydrogen Bond	B:TYR662:OH	H-Donor	B:715801	Pi-Orbitals			17.709			
+B:TYR662 - B:715801	Yes	255 100 200	Ligand Non-bond Monitor	4.72566	Hydrophobic	Pi-Pi Stacked	B:TYR662	Pi-Orbitals	B:715801	Pi-Orbitals			48.859	25.287	26.433	3.727
+B:715801 - B:PHE357	Yes	255 100 200	Ligand Non-bond Monitor	4.10796	Hydrophobic	Pi-Pi Stacked	B:715801	Pi-Orbitals	B:PHE357	Pi-Orbitals			31.488	30.946	10.145	3.405
+B:TYR666 - B:715801	Yes	255 100 200	Ligand Non-bond Monitor	5.22236	Hydrophobic	Pi-Pi T-shaped	B:TYR666	Pi-Orbitals	B:715801	Pi-Orbitals			15.183	60.885	76.068	3.727
+B:715801:C42 - B:ARG358	Yes	255 200 255	Ligand Non-bond Monitor	4.52512	Hydrophobic	Alkyl	B:715801:C42	Alkyl	B:ARG358	Alkyl						
+B:PHE357 - B:715801	Yes	255 200 255	Ligand Non-bond Monitor	4.31208	Hydrophobic	Pi-Alkyl	B:PHE357	Pi-Orbitals	B:715801	Alkyl						

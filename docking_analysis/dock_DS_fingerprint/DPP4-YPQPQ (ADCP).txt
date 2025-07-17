@@ -1,0 +1,14 @@
+B:TYR1:N - A:GLU205:OE2	Yes	255 150 0	Ligand Non-bond Monitor	2.54099	Hydrogen Bond;Electrostatic	Salt Bridge	B:TYR1:N	H-Donor	A:GLU205:OE2	H-Acceptor	60.18	143.093						
+B:TYR1:N - A:GLU206:OE2	Yes	255 150 0	Ligand Non-bond Monitor	3.79999	Hydrogen Bond;Electrostatic	Salt Bridge	B:TYR1:N	H-Donor	A:GLU206:OE2	H-Acceptor	52.921	110.725						
+B:TYR1:N - A:ASP663:OD2	Yes	255 150 0	Ligand Non-bond Monitor	5.36432	Electrostatic	Attractive Charge	B:TYR1:N	Positive	A:ASP663:OD2	Negative								
+B:GLN5:NE2 - A:TYR752:OH	Yes	0 255 0	Ligand Non-bond Monitor	2.79858	Hydrogen Bond	Conventional Hydrogen Bond	B:GLN5:NE2	H-Donor	A:TYR752:OH	H-Acceptor	45.074	93.504						
+A:ARG125:HH11 - B:PRO2:O	Yes	0 255 0	Ligand Non-bond Monitor	2.65155	Hydrogen Bond	Conventional Hydrogen Bond	A:ARG125:HH11	H-Donor	B:PRO2:O	H-Acceptor			130.218	147.411				
+A:LYS554:HZ2 - B:PRO4:O	Yes	0 255 0	Ligand Non-bond Monitor	2.04416	Hydrogen Bond	Conventional Hydrogen Bond	A:LYS554:HZ2	H-Donor	B:PRO4:O	H-Acceptor			110.749	164.391				
+A:TRP629:HN - B:GLN5:O	Yes	0 255 0	Ligand Non-bond Monitor	2.15347	Hydrogen Bond	Conventional Hydrogen Bond	A:TRP629:HN	H-Donor	B:GLN5:O	H-Acceptor			163.234	145.845				
+B:PRO2:CD - A:GLU205:OE2	Yes	220 255 220	Ligand Non-bond Monitor	3.3796	Hydrogen Bond	Carbon Hydrogen Bond	B:PRO2:CD	H-Donor	A:GLU205:OE2	H-Acceptor	52.395	141.603						
+B:PRO4:CD - B:GLN3:OE1	Yes	220 255 220	Ligand Non-bond Monitor	2.98727	Hydrogen Bond	Carbon Hydrogen Bond	B:PRO4:CD	H-Donor	B:GLN3:OE1	H-Acceptor	17.274	101.106						
+B:GLN3:NE2 - A:TRP629	Yes	220 255 220	Ligand Non-bond Monitor	3.34719	Hydrogen Bond	Pi-Donor Hydrogen Bond	B:GLN3:NE2	H-Donor	A:TRP629	Pi-Orbitals					6.529			
+B:GLN3:O - A:TYR547	Yes	170 255 0	Ligand Non-bond Monitor	2.85839	Other	Pi-Lone Pair	B:GLN3:O	Lone Pair	A:TYR547	Pi-Orbitals					20.039			
+B:TYR1 - A:TYR662	Yes	255 100 200	Ligand Non-bond Monitor	4.33503	Hydrophobic	Pi-Pi Stacked	B:TYR1	Pi-Orbitals	A:TYR662	Pi-Orbitals					7.52	33.98	33.336	3.558
+B:TYR1 - A:TYR666	Yes	255 100 200	Ligand Non-bond Monitor	5.2784	Hydrophobic	Pi-Pi T-shaped	B:TYR1	Pi-Orbitals	A:TYR666	Pi-Orbitals					62.474	21.495	73.655	3.698
+B:TYR1 - A:VAL711	Yes	255 200 255	Ligand Non-bond Monitor	5.49862	Hydrophobic	Pi-Alkyl	B:TYR1	Pi-Orbitals	A:VAL711	Alkyl								

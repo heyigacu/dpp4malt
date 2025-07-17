@@ -1,0 +1,13 @@
+A:ARG125:HH11 - d:<1>1:O	Yes	0 255 0	Ligand Non-bond Monitor	2.80648	Hydrogen Bond	Conventional Hydrogen Bond	A:ARG125:HH11	H-Donor	d:<1>1:O	H-Acceptor	104.938	103.636		
+A:TYR662:HH - d:<1>1:O	Yes	0 255 0	Ligand Non-bond Monitor	2.5527	Hydrogen Bond	Conventional Hydrogen Bond	A:TYR662:HH	H-Donor	d:<1>1:O	H-Acceptor	99.942	168.559		
+d:<1>1:H - d:<1>1:O	Yes	0 255 0	Ligand Non-bond Monitor	2.35721	Hydrogen Bond	Conventional Hydrogen Bond	d:<1>1:H	H-Donor	d:<1>1:O	H-Acceptor	124.522	110.113		
+d:<1>1:H - A:VAL546:O	Yes	0 255 0	Ligand Non-bond Monitor	2.39859	Hydrogen Bond	Conventional Hydrogen Bond	d:<1>1:H	H-Donor	A:VAL546:O	H-Acceptor	110.644	148.735		
+d:<1>1:H - A:VAL546:O:B	Yes	0 255 0	Ligand Non-bond Monitor	2.41009	Hydrogen Bond	Conventional Hydrogen Bond	d:<1>1:H	H-Donor	A:VAL546:O:B	H-Acceptor	111.628	147.302		
+d:<1>1:H - A:GLU205:OE2	Yes	0 255 0	Ligand Non-bond Monitor	2.40234	Hydrogen Bond	Conventional Hydrogen Bond	d:<1>1:H	H-Donor	A:GLU205:OE2	H-Acceptor	128.141	112.909		
+d:<1>1:H - A:GLU206:OE2	Yes	0 255 0	Ligand Non-bond Monitor	2.63835	Hydrogen Bond	Conventional Hydrogen Bond	d:<1>1:H	H-Donor	A:GLU206:OE2	H-Acceptor	100.493	94.225		
+d:<1>1:H - A:TYR662:OH	Yes	0 255 0	Ligand Non-bond Monitor	2.07008	Hydrogen Bond	Conventional Hydrogen Bond	d:<1>1:H	H-Donor	A:TYR662:OH	H-Acceptor	141.293	114.969		
+d:<1>1:H - d:<1>1:O	Yes	0 255 0	Ligand Non-bond Monitor	2.89979	Hydrogen Bond	Conventional Hydrogen Bond	d:<1>1:H	H-Donor	d:<1>1:O	H-Acceptor	100.265	113.347		
+d:<1>1:H - A:GLU205:OE2	Yes	0 255 0	Ligand Non-bond Monitor	2.19308	Hydrogen Bond	Conventional Hydrogen Bond	d:<1>1:H	H-Donor	A:GLU205:OE2	H-Acceptor	144.126	92.511		
+d:<1>1:H - A:TYR547:OH	Yes	0 255 0	Ligand Non-bond Monitor	2.2247	Hydrogen Bond	Conventional Hydrogen Bond	d:<1>1:H	H-Donor	A:TYR547:OH	H-Acceptor	145.04	110.669		
+A:LYS554:NZ - d:<1>1	Yes	255 150 0	Ligand Non-bond Monitor	4.4969	Electrostatic	Pi-Cation	A:LYS554:NZ	Positive	d:<1>1	Pi-Orbitals			20.554	
+d:<1>1:C - A:TYR547	Yes	200 100 255	Ligand Non-bond Monitor	3.88612	Hydrophobic	Pi-Sigma	d:<1>1:C	C-H	A:TYR547	Pi-Orbitals			21.466	13.545

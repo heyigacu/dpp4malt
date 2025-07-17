@@ -1,0 +1,17 @@
+B:TYR1:N - A:GLU205:OE1	Yes	255 150 0	Ligand Non-bond Monitor	2.19796	Hydrogen Bond;Electrostatic	Salt Bridge	B:TYR1:N	H-Donor	A:GLU205:OE1	H-Acceptor	50.416	115.854
+A:ARG125:NH1 - B:GLN5:OXT	Yes	255 150 0	Ligand Non-bond Monitor	4.09418	Electrostatic	Attractive Charge	A:ARG125:NH1	Positive	B:GLN5:OXT	Negative		
+B:TYR1:N - A:GLU206:OE1	Yes	255 150 0	Ligand Non-bond Monitor	2.59977	Electrostatic	Attractive Charge	B:TYR1:N	Positive	A:GLU206:OE1	Negative		
+B:TYR1:N - A:ASP663:OD2	Yes	255 150 0	Ligand Non-bond Monitor	5.07785	Electrostatic	Attractive Charge	B:TYR1:N	Positive	A:ASP663:OD2	Negative		
+A:LYS122:NZ - B:GLN5:OE1	Yes	0 255 0	Ligand Non-bond Monitor	3.18894	Hydrogen Bond	Conventional Hydrogen Bond	A:LYS122:NZ	H-Donor	B:GLN5:OE1	H-Acceptor	14.873	169.826
+A:ARG125:NH1 - B:PRO4:O	Yes	0 255 0	Ligand Non-bond Monitor	2.87928	Hydrogen Bond	Conventional Hydrogen Bond	A:ARG125:NH1	H-Donor	B:PRO4:O	H-Acceptor	24.496	104.064
+A:ARG125:NH2 - B:TYR1:O	Yes	0 255 0	Ligand Non-bond Monitor	3.32801	Hydrogen Bond	Conventional Hydrogen Bond	A:ARG125:NH2	H-Donor	B:TYR1:O	H-Acceptor	61.407	160.638
+A:ARG125:NH2 - B:GLN3:O	Yes	0 255 0	Ligand Non-bond Monitor	2.8083	Hydrogen Bond	Conventional Hydrogen Bond	A:ARG125:NH2	H-Donor	B:GLN3:O	H-Acceptor	6.202	153.479
+A:TYR547:OH - B:PRO2:O	Yes	0 255 0	Ligand Non-bond Monitor	3.14787	Hydrogen Bond	Conventional Hydrogen Bond	A:TYR547:OH	H-Donor	B:PRO2:O	H-Acceptor	96.51	110.762
+A:TYR631:N - B:PRO2:O	Yes	0 255 0	Ligand Non-bond Monitor	2.99239	Hydrogen Bond	Conventional Hydrogen Bond	A:TYR631:N	H-Donor	B:PRO2:O	H-Acceptor	10.154	126.814
+A:ASN710:ND2 - B:TYR1:O	Yes	0 255 0	Ligand Non-bond Monitor	3.20487	Hydrogen Bond	Conventional Hydrogen Bond	A:ASN710:ND2	H-Donor	B:TYR1:O	H-Acceptor	14.055	122.385
+B:GLN3:N - B:TYR1:O	Yes	0 255 0	Ligand Non-bond Monitor	2.73003	Hydrogen Bond	Conventional Hydrogen Bond	B:GLN3:N	H-Donor	B:TYR1:O	H-Acceptor	25.402	102.688
+A:HIS740:CD2 - B:GLN3:O	Yes	220 255 220	Ligand Non-bond Monitor	3.01736	Hydrogen Bond	Carbon Hydrogen Bond	A:HIS740:CD2	H-Donor	B:GLN3:O	H-Acceptor	34.782	104.817
+A:TRP629 - B:PRO4	Yes	255 200 255	Ligand Non-bond Monitor	4.0368	Hydrophobic	Pi-Alkyl	A:TRP629	Pi-Orbitals	B:PRO4	Alkyl		
+A:TRP629 - B:PRO4	Yes	255 200 255	Ligand Non-bond Monitor	5.16659	Hydrophobic	Pi-Alkyl	A:TRP629	Pi-Orbitals	B:PRO4	Alkyl		
+A:TYR662 - B:PRO2	Yes	255 200 255	Ligand Non-bond Monitor	4.29458	Hydrophobic	Pi-Alkyl	A:TYR662	Pi-Orbitals	B:PRO2	Alkyl		
+A:TYR666 - B:PRO2	Yes	255 200 255	Ligand Non-bond Monitor	4.41284	Hydrophobic	Pi-Alkyl	A:TYR666	Pi-Orbitals	B:PRO2	Alkyl		

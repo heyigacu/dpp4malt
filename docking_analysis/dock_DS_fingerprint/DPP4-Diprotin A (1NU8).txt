@@ -1,0 +1,15 @@
+B:ARG125:NH1 - D:ILE3:O	Yes	255 150 0	Ligand Non-bond Monitor	3.11049	Hydrogen Bond;Electrostatic	Salt Bridge	B:ARG125:NH1	H-Donor	D:ILE3:O	H-Acceptor	19.404	163.012	
+D:ILE1:N - B:GLU205:OE2	Yes	255 150 0	Ligand Non-bond Monitor	2.65321	Hydrogen Bond;Electrostatic	Salt Bridge	D:ILE1:N	H-Donor	B:GLU205:OE2	H-Acceptor	14.722	121.562	
+D:ILE1:N - B:GLU206:OE2	Yes	255 150 0	Ligand Non-bond Monitor	2.50046	Hydrogen Bond;Electrostatic	Salt Bridge	D:ILE1:N	H-Donor	B:GLU206:OE2	H-Acceptor	45.041	98.709	
+B:ARG125:NH2 - D:ILE3:OXT	Yes	255 150 0	Ligand Non-bond Monitor	5.26802	Electrostatic	Attractive Charge	B:ARG125:NH2	Positive	D:ILE3:OXT	Negative			
+D:ILE1:N - B:ASP663:OD2	Yes	255 150 0	Ligand Non-bond Monitor	4.7792	Electrostatic	Attractive Charge	D:ILE1:N	Positive	B:ASP663:OD2	Negative			
+B:ARG125:NH2 - D:ILE1:O	Yes	0 255 0	Ligand Non-bond Monitor	3.17267	Hydrogen Bond	Conventional Hydrogen Bond	B:ARG125:NH2	H-Donor	D:ILE1:O	H-Acceptor	51.479	154.991	
+B:TYR547:OH - D:PRO2:O	Yes	0 255 0	Ligand Non-bond Monitor	2.73182	Hydrogen Bond	Conventional Hydrogen Bond	B:TYR547:OH	H-Donor	D:PRO2:O	H-Acceptor	46.341	141.082	
+B:TYR631:N - D:PRO2:O	Yes	0 255 0	Ligand Non-bond Monitor	3.1336	Hydrogen Bond	Conventional Hydrogen Bond	B:TYR631:N	H-Donor	D:PRO2:O	H-Acceptor	6.398	110.54	
+B:ASN710:ND2 - D:ILE1:O	Yes	0 255 0	Ligand Non-bond Monitor	3.33226	Hydrogen Bond	Conventional Hydrogen Bond	B:ASN710:ND2	H-Donor	D:ILE1:O	H-Acceptor	7.394	122.01	
+D:ILE3:N - B:HIS740:NE2	Yes	0 255 0	Ligand Non-bond Monitor	3.10468	Hydrogen Bond	Conventional Hydrogen Bond	D:ILE3:N	H-Donor	B:HIS740:NE2	H-Acceptor	86.52	99.549	
+D:ILE3:N - D:ILE1:O	Yes	0 255 0	Ligand Non-bond Monitor	2.67835	Hydrogen Bond	Conventional Hydrogen Bond	D:ILE3:N	H-Donor	D:ILE1:O	H-Acceptor	31.391	100.734	
+D:ILE3:OXT - B:TRP629	Yes	255 150 0	Ligand Non-bond Monitor	4.69145	Electrostatic	Pi-Anion	D:ILE3:OXT	Negative	B:TRP629	Pi-Orbitals			39.168
+B:TYR547 - D:ILE3	Yes	255 200 255	Ligand Non-bond Monitor	4.94925	Hydrophobic	Pi-Alkyl	B:TYR547	Pi-Orbitals	D:ILE3	Alkyl			
+B:TYR662 - D:PRO2	Yes	255 200 255	Ligand Non-bond Monitor	4.47622	Hydrophobic	Pi-Alkyl	B:TYR662	Pi-Orbitals	D:PRO2	Alkyl			
+B:TYR666 - D:PRO2	Yes	255 200 255	Ligand Non-bond Monitor	4.54464	Hydrophobic	Pi-Alkyl	B:TYR666	Pi-Orbitals	D:PRO2	Alkyl			

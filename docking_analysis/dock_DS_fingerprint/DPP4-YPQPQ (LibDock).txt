@@ -1,0 +1,12 @@
+A:ARG358:NH1 - YPQPQ:O45	Yes	255 150 0	Ligand Non-bond Monitor	4.59694	Electrostatic	Attractive Charge	A:ARG358:NH1	Positive	YPQPQ:O45	Negative						
+A:ARG125:HH22 - YPQPQ:O12	Yes	0 255 0	Ligand Non-bond Monitor	2.40876	Hydrogen Bond	Conventional Hydrogen Bond	A:ARG125:HH22	H-Donor	YPQPQ:O12	H-Acceptor	126.225	147.78				
+A:ARG356:HH11 - YPQPQ:O41	Yes	0 255 0	Ligand Non-bond Monitor	1.75014	Hydrogen Bond	Conventional Hydrogen Bond	A:ARG356:HH11	H-Donor	YPQPQ:O41	H-Acceptor	156.843	145.796				
+A:ARG358:HH21 - YPQPQ:O45	Yes	0 255 0	Ligand Non-bond Monitor	1.86942	Hydrogen Bond	Conventional Hydrogen Bond	A:ARG358:HH21	H-Donor	YPQPQ:O45	H-Acceptor	148.501	156.727				
+A:LYS554:HZ1 - YPQPQ:O10	Yes	0 255 0	Ligand Non-bond Monitor	1.6968	Hydrogen Bond	Conventional Hydrogen Bond	A:LYS554:HZ1	H-Donor	YPQPQ:O10	H-Acceptor	153.4	98.655				
+YPQPQ:H48 - YPQPQ:O19	Yes	0 255 0	Ligand Non-bond Monitor	1.60256	Hydrogen Bond	Conventional Hydrogen Bond	YPQPQ:H48	H-Donor	YPQPQ:O19	H-Acceptor	144.775	149.755				
+YPQPQ:H70 - YPQPQ:O35	Yes	0 255 0	Ligand Non-bond Monitor	1.83767	Hydrogen Bond	Conventional Hydrogen Bond	YPQPQ:H70	H-Donor	YPQPQ:O35	H-Acceptor	154.559	136.851				
+YPQPQ:H86 - A:ILE405:O	Yes	0 255 0	Ligand Non-bond Monitor	2.34865	Hydrogen Bond	Conventional Hydrogen Bond	YPQPQ:H86	H-Donor	A:ILE405:O	H-Acceptor	172.904	160.769				
+A:ARG356:HD2 - YPQPQ:O41	Yes	220 255 220	Ligand Non-bond Monitor	2.37543	Hydrogen Bond	Carbon Hydrogen Bond	A:ARG356:HD2	H-Donor	YPQPQ:O41	H-Acceptor	140.326	163.717				
+YPQPQ:H59 - A:TYR547:OH	Yes	220 255 220	Ligand Non-bond Monitor	2.75464	Hydrogen Bond	Carbon Hydrogen Bond	YPQPQ:H59	H-Donor	A:TYR547:OH	H-Acceptor	125.346	99.051				
+A:TYR547 - YPQPQ	Yes	255 100 200	Ligand Non-bond Monitor	4.3696	Hydrophobic	Pi-Pi Stacked	A:TYR547	Pi-Orbitals	YPQPQ	Pi-Orbitals			36.75	42.239	5.49	3.393
+A:TYR666 - YPQPQ	Yes	255 200 255	Ligand Non-bond Monitor	5.45109	Hydrophobic	Pi-Alkyl	A:TYR666	Pi-Orbitals	YPQPQ	Alkyl						
